@@ -1,0 +1,9 @@
+DATABASE  = osclass;
+MYSQLUSER = makecircles-dev;
+PASSWORD  = ccWT3u5xFcUV;
+HOST      = www.qubitrade.com;
+;CAPATH    = /etc/mysql;
+;CA        = ca.pem;
+KEY       = /etc/mysql/client-key.pem;
+CERT      = /etc/mysql/client-cert.pem;
+

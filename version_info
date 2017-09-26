@@ -1,0 +1,40 @@
+Version 1.1
+ * Log file
+ * Create circlemaker object
+
+Version 1.2
+ * Read in MySql creds from data file
+ * GenerateGraph function
+ * Moved the sql connection handling to the circlemaker class
+   - credentials passed in to constructor
+   - query options set by "setter"
+ * SSL connection success 
+
+Version 1.3
+ * Create a boost::filtered_graph from the SQL result
+
+Version 1.4
+ * fixed command line arguments, tested SQL statements
+ 
+Version 1.5
+ * minor improvements
+ 
+version 1.6
+ * total_circles_found is now circlemaker class member, updated through pointer in Visitor struct
+
+versions 1.7
+ * laid groundwork for multithreading
+   - created ThreadData struct
+   - created vectors in Main for holding objects
+   - wrote in FOR loops to stand in for threadsversions 1.7
+
+version 1.8
+ * moved circuit-finding functionality into the CM class
+ * cleaned up log file
+
+version 1.9
+ * spawn thread for each value interval 
+ * define intervals in csv file, specify file when invoking program
+
+version 1.10
+ * cleand up directory structure and modified Makefile

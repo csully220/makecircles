@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./makecircles -f config/intervals1.csv
+wait
+./makecircles -f config/intervals2.csv

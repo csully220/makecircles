@@ -1,0 +1,42 @@
+- 22:41:51.841 INFO: ****************************************************
+                     *************        START        ******************
+                     ****************************************************
+- 22:41:52.206 INFO: intervals: 0, 50, 100, 200, 300, 500, 700, 800, 1000
+- 22:41:52.484 DEBUG: thread 0 created
+- 22:41:52.484 DEBUG: thread 1 created
+- 22:41:52.485 DEBUG: thread 2 created
+- 22:41:52.485 DEBUG: thread 3 created
+- 22:41:52.485 DEBUG: thread 4 created
+- 22:41:52.486 DEBUG: thread 5 created
+- 22:41:52.486 DEBUG: thread 6 created
+- 22:41:52.486 DEBUG: thread 7 created
+- 22:41:52.486 DEBUG: thread 0 joined, status: 0
+- 22:41:52.486 DEBUG: thread 1 joined, status: 0
+- 22:41:52.486 DEBUG: thread 2 joined, status: 0
+- 22:41:52.486 DEBUG: thread 3 joined, status: 0
+- 22:41:52.487 DEBUG: thread 4 joined, status: 0
+- 22:41:52.487 DEBUG: thread 5 joined, status: 0
+- 22:41:52.487 DEBUG: thread 6 joined, status: 0
+- 22:41:52.487 DEBUG: thread 7 joined, status: 0
+- 22:41:52.487 INFO: total circles: 0
+- 22:45:12.150 INFO: ****************************************************
+                     *************        START        ******************
+                     ****************************************************
+- 22:45:12.375 INFO: intervals: 0, 50, 100, 200, 300, 500, 700, 800, 1000
+- 22:45:12.648 DEBUG: thread 0 created
+- 22:45:12.648 DEBUG: thread 1 created
+- 22:45:12.648 DEBUG: thread 2 created
+- 22:45:12.648 DEBUG: thread 3 created
+- 22:45:12.648 DEBUG: thread 4 created
+- 22:45:12.649 DEBUG: thread 5 created
+- 22:45:12.649 DEBUG: thread 6 created
+- 22:45:12.649 DEBUG: thread 7 created
+- 22:45:12.649 DEBUG: thread 0 joined, status: 0
+- 22:45:12.649 DEBUG: thread 1 joined, status: 0
+- 22:45:12.649 DEBUG: thread 2 joined, status: 0
+- 22:45:12.649 DEBUG: thread 3 joined, status: 0
+- 22:45:12.649 DEBUG: thread 4 joined, status: 0
+- 22:45:12.649 DEBUG: thread 5 joined, status: 0
+- 22:45:12.649 DEBUG: thread 6 joined, status: 0
+- 22:45:12.649 DEBUG: thread 7 joined, status: 0
+- 22:45:12.649 INFO: total circles: 0
